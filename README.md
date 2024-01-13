@@ -14,4 +14,4 @@
 ## imge
 ![myimage](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
-<img src="./myimg.jpg" width="100" height="100">
+## <img src="./myimg.jpg" width="300" height="300" center>
